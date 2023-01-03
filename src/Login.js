@@ -79,7 +79,7 @@ function Login() {
                 </p>
 
                 <button onClick={register} className="login__registerButton">
-                    Create your Amazon Account here!
+                    Create your Amazon Account
                 </button>
             </div>
         </div>
