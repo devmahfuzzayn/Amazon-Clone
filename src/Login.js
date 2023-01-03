@@ -73,7 +73,7 @@ function Login() {
                 </form>
 
                 <p>
-                    By signing-in you agree to Amazon Clone Conditions of Use &
+                    By signing-in you agree to Zayn's Amazon Clone Conditions of Use &
                     Sale. Please see our Privacy Notice, our Cookies Notice and
                     our Interest-Based Ads Notice.
                 </p>
